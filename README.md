@@ -8,6 +8,7 @@ I've created a PowerShell script and guide to simplify the installation of Black
       - [V 1.1](https://d2.myabandonware.com/t/e27308d2-7b23-46f8-88dc-0b60334558c1/Black-White-2_Patch_Win_EN_Patch-v11.exe)
       - [V 1.2](https://d2.myabandonware.com/t/273d916a-a21f-4276-8afd-a6de96944bc6/Black-White-2_Patch_Win_EN_Patch-v12.exe)
       - [V 1.42 (AKA unofficial patch)](https://d2.myabandonware.com/t/e508ed13-77fb-4ff4-881b-c35978909115/Black-White-2_Patch_Win_EN_Patch-v142.zip)
+          - Extract the 1.42 patch installer to the folder you previously created. "B&W2 Fan Patch v1.42 Installer.exe" should be in the same folder as "BW2Patch_v11.exe"
    - Download the [ProductKeys](https://d2.myabandonware.com/t/bd19e765-b5d1-4bcd-95c6-460c50f8ca59/Black-White-2_Misc_Win_EN_Serial-Keys.txt)
    - Download the [Install-BW2.ps1](https://github.com/N00bScriptr/Black-and-White-2-Install/blob/59a3cf00706c94e4685e94439acb022fd484a2bf/Install-BW2.ps1) script from this GitHub repository
  
