@@ -1,4 +1,4 @@
-# Black-and-White-2-Install
+# Black and White 2 Install
 
 I've created a PowerShell script and guide to simplify the installation of Black & White 2. Follow the steps below to install.
 
